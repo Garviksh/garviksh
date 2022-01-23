@@ -52,6 +52,6 @@ https://go.qwiklabs.com/learn-to-earn?utm_source=mailchimp&utm_medium=email&utm_
 </p> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garviksh&show_icons=true&locale=en&layout=compact" alt="garviksh" /></p>
 </p> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garviksh&show_icons=true&locale=en" alt="garviksh" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=garviksh&show_icons=true&locale=en" alt="garviksh" /></p>
 </p> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garviksh&" alt="garviksh" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=garviksh&" alt="garviksh" /></p>
