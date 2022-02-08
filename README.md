@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Hash_code & Kick_start**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Garviksh](https://github.com/Garviksh)
+- 👨‍💻 few of my projects are available at [https://github.com/Garviksh](https://github.com/Garviksh)
 
 - 📝 Other certification [Google IT Support](https://www.youracclaim.com/badges/ff2c7cd1-73e8-4015-9295-ed557e087502?source=linked_in_profile)
 
