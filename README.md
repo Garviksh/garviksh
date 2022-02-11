@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garviksh" alt="garviksh" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
-- 🔭 I’m currently working on [Machine Learning Algo](https://github.com/Garviksh/Machine-Learning-Algo)
+- 🔭 I Completed cs50 AI 
 
 - 🌱 I’m currently learning **UNIX and C#**
 
